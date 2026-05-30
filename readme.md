@@ -148,6 +148,8 @@ LiPo Battery
 - 📶 WiFi connectivity
 - 📱 Mobile companion app
 
+---
+
 ## 🎯 About EVE
 
 EVE is the official mascot of the Robotics Community at Universitas Atma Jaya Yogyakarta (UAJY).
