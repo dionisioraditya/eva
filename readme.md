@@ -150,6 +150,10 @@ The robot reacts to physical interaction through a simple emotional state machin
 
 ## 🔌 Wiring
 
+<p align="center">
+  <img src="schematic.png" width="300">
+</p>
+
 ### OLED
 
 | OLED | ESP32-C3 |
