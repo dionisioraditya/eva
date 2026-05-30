@@ -92,26 +92,26 @@ The robot reacts to physical interaction through a simple emotional state machin
 ```text
           ┌────────────┐
           │    Idle    │
-          │ 😊 😄 😉    │
+          │ 😊 😄 😉  │
           └─────┬──────┘
                 │
                 │ Shake detected
                 ▼
           ┌────────────┐
           │  Flicker   │
-          │ ⚡⚡⚡⚡⚡    │
+          │ ⚡⚡⚡⚡⚡      │
           └─────┬──────┘
                 │
                 ▼
           ┌────────────┐
           │   Dizzy    │
-          │ 😵😵😵      │
+          │ 😵😵😵    │
           └─────┬──────┘
                 │
                 ▼
           ┌────────────┐
           │   Angry    │
-          │ 😠😠😠      │
+          │ 😠😠😠    │
           └─────┬──────┘
                 │
                 ▼
@@ -123,7 +123,7 @@ The robot reacts to physical interaction through a simple emotional state machin
                 ▼
           ┌────────────┐
           │    Sad     │
-          │ 😢😢😢      │
+          │ 😢😢😢    │
           └─────┬──────┘
                 │
                 ▼
